@@ -197,17 +197,9 @@ The system generates several visualizations:
 - [ ] Multi-language support
 - [ ] Email attachment analysis
 
-## 📝 License
-
-This project is for educational purposes.
-
 ## 👤 Author
 
-Machine Learning Intern - Arch Technologies
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
+Huzaifa Khalid
 
 ## ⭐ Show your support
 
