@@ -168,21 +168,6 @@ python predict_spam.py
 # 3. Allow interactive testing
 ```
 
-### Programmatic Usage:
-```python
-from predict_spam import load_models, predict_spam
-
-# Load models
-model, vectorizer, model_name = load_models()
-
-# Classify email
-email = "Your email text here..."
-result = predict_spam(email, model, vectorizer)
-
-print(f"Is Spam: {result['is_spam']}")
-print(f"Confidence: {result['confidence']:.2%}")
-```
-
 ---
 
 ## ✅ Complete Task Checklist
